@@ -1,2 +1,3 @@
-# rapid-mobile-app-nzdr
-Automated issue comment bot repository
+# Rapid Mobile App Nzdr
+
+Automated issue comment bot repository.
